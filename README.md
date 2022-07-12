@@ -4,7 +4,7 @@ This repository contains solutions to questions I've attempted on [StrataScratch
 
 The questions have a range of various difficulties (easy - hard).
 
-## Completed Questions: `8`
+## Completed Questions: `9`
 |  ID #  | Title | Difficulty | SQL Solution | Pandas Solution |
 |:------:|:-----:|:----------:|:------------:|:---------------:|
 |2002|[Submission Types](https://platform.stratascratch.com/coding/2002-submission-types)|Easy|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/sql/2002.sql)|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/pandas/2002.py)
@@ -15,3 +15,4 @@ The questions have a range of various difficulties (easy - hard).
 |10073|[Favorite Host Nationality](https://platform.stratascratch.com/coding/10073-favorite-host-nationality)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/sql/10073.sql)|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/pandas/10073.py)
 |10283|[Find The Top-Ranked Songs For The Past 20 Years](https://platform.stratascratch.com/coding/10283-find-the-top-ranked-songs-for-the-past-30-years)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10283.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10283.py)
 |10295|[Most Active Users On Messenger](https://platform.stratascratch.com/coding/10295-most-active-users-on-messenger)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10295.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10295.py)
+|10351|[Activity Rank](https://platform.stratascratch.com/coding/10351-activity-rank)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10295.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10295.py)
