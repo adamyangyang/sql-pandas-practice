@@ -1,6 +1,6 @@
 # sql-pandas-tech-interview-prep
 
-This repository contains solutions to questions I've attempted on [StrataScratch](https://www.stratascratch.com) to hone my abilities in tackling complex logic when undergoing technical interviews for SQL & Pandas.
+This repository contains solutions to questions I've attempted on [StrataScratch](https://www.stratascratch.com) to hone my abilities in tackling complex logic to prepare for technical interviews on SQL & Pandas.
 
 The questions have a range of various difficulties (easy - hard).
 
