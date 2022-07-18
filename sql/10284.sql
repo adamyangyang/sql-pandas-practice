@@ -41,7 +41,7 @@ total_friends_by_users AS (
 )
 
 -- STEP 3: Get popularity percentage for each user on Facebook.
-    -- We get the percetange by dividing each user's total friend count against the total number of users (retrieved via a subquery that counts total users).
+    -- We get the percetange by dividing each user's total friend count against the total number of users (retrieved via a subquery that counts total users)
 SELECT
     user_id, 
     (total_friends / (SELECT COUNT(user_id) FROM user_id_table))*100 AS pop_pct
