@@ -18,7 +18,7 @@ df3 = df3["user1"].drop_duplicates().sort_values().rename("user_id")
 df = df.merge(df3, how="right", left_on="user1", right_on="user_id")
 df2 = df2.merge(df3, how="right", left_on="user1", right_on="user_id")
 
-# Get total number of friends for each user
+# Get total number of friends for each user.
 df = df.groupby(by="user_id").agg({"user1":"count"}).reset_index().rename(columns={"user1":"total_friends"})
 df2 = df2.groupby(by="user_id").agg({"user1":"count"}).reset_index().rename(columns={"user1":"total_friends"})
 
