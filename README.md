@@ -4,7 +4,7 @@ This repository contains solutions to questions I've attempted on [StrataScratch
 
 The questions have a range of various difficulties (easy - hard).
 
-## Completed Questions: `14`
+## Completed Questions: `17`
 |  ID #  | Title | Difficulty | SQL Solution | Pandas Solution |
 |:------:|:-----:|:----------:|:------------:|:---------------:|
 |2002|[Submission Types](https://platform.stratascratch.com/coding/2002-submission-types)|Easy|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/sql/2002.sql)|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/pandas/2002.py)
@@ -23,5 +23,5 @@ The questions have a range of various difficulties (easy - hard).
 |9814|[Counting Instances in Text](https://platform.stratascratch.com/coding/9814-counting-instances-in-text)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/9814.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/9814.py)
 |9632|[Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/9632.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/9632.py)
 |10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10284.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10284.py)
-|10046|[Top 5 States With 5 Stars Businesses](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10046.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10046.py)
-|10182|[Number of Streets Per Zip Code](https://platform.stratascratch.com/coding/10182-number-of-streets-per-zip-code)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10182.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10182.py)
+|10046|[Top 5 States With 5 Stars Businesses](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10046.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10046.py)
+|10182|[Number of Streets Per Zip Code](https://platform.stratascratch.com/coding/10182-number-of-streets-per-zip-code)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10182.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10182.py)
