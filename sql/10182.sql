@@ -1,7 +1,6 @@
 -- Objective: Find the number of different street names for each postal code.
 -- Output: postal code, num_of_street_names
--- Assumptions:
-    
+-- Assumptions: ?
 -- Process: 
     -- STEP 1: Check for missing in required columns (business_postal_code, business_address)
         -- Duplicates are not needed because multiple businesses reside within the same business address and/or postal code.
