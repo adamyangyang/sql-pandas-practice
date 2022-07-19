@@ -1,4 +1,4 @@
-# Import your libraries
+# Import libraries
 import pandas as pd
 
 # Put table into dataframe
