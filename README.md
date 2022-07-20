@@ -4,7 +4,7 @@ This repository contains solutions to questions I've attempted on [StrataScratch
 
 The questions have a range of various difficulties (easy - hard).
 
-## Completed Questions: `19`
+## Completed Questions: `20`
 |  ID #  | Title | Difficulty | SQL Solution | Pandas Solution |
 |:------:|:-----:|:----------:|:------------:|:---------------:|
 |2002|[Submission Types](https://platform.stratascratch.com/coding/2002-submission-types)|Easy|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/sql/2002.sql)|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/pandas/2002.py)
