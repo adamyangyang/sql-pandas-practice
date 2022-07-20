@@ -6,8 +6,7 @@
 -- Process: 
     -- STEP 1: Change all names into lowercase so CASE function can take into account of names without capital letters. 
         -- Then, classify business according to their categories.
-        -- Also, remove duplicates
-    -- STEP 2: 
+        -- Also, remove duplicates. 
     
 -- STEP 1: Change all names into lowercase so CASE function can take into account of names without capital letters.
 WITH biz_types AS (
