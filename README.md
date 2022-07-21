@@ -4,7 +4,7 @@ This repository contains solutions to questions I've attempted on [StrataScratch
 
 The questions have a range of various difficulties (easy - hard).
 
-## Completed Questions: `20`
+## Completed Questions: `22`
 |  ID #  | Title | Difficulty | SQL Solution | Pandas Solution |
 |:------:|:-----:|:----------:|:------------:|:---------------:|
 |2002|[Submission Types](https://platform.stratascratch.com/coding/2002-submission-types)|Easy|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/sql/2002.sql)|[Link](https://github.com/adamyangyang/sql-pandas-tech-interview-prep/blob/main/pandas/2002.py)
@@ -17,6 +17,8 @@ The questions have a range of various difficulties (easy - hard).
 |10295|[Most Active Users On Messenger](https://platform.stratascratch.com/coding/10295-most-active-users-on-messenger)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10295.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10295.py)
 |9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/9726.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/9726.py)
 |9915|[Highest Cost Order](https://platform.stratascratch.com/coding/9915-highest-cost-orders)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/9915.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/9915.py)
+|9728|[Number of Violations](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/9728.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/9728.py)
+|10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases)|Medium|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10322.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10322.py)
 |10351|[Activity Rank](https://platform.stratascratch.com/coding/10351-activity-rank)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10351.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10351.py)
 |10300|[Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10300.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10300.py)
 |10302|[Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar)|Hard|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/sql/10302.sql)|[Link](https://github.com/adamyangyang/sql-pandas-practice/blob/main/pandas/10302.py)
